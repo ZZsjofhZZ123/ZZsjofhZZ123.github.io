@@ -7,7 +7,7 @@
 
 # Site settings
 title: 乔正坤
-brief-intro: 是SB
+brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username: gaohaoyang
 linkedIn_username: gaohaoyang
 dribbble_username:
 
-description_footer: 本站见证sb之路
+description_footer: 本站见证成长之路
 
 # comments
 # two ways to comment, only choose one, and use your own short name
